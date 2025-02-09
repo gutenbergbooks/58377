@@ -1,35 +1,7 @@
-The Project Gutenberg EBook of A Short List of Scientific Books by E. & F.
-N. Spon. February 1914, by Various
-
-This eBook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll
-have to check the laws of the country where you are located before using
-this ebook.
+*** START OF THE PROJECT GUTENBERG EBOOK 58377 ***
 
 
 
-Title: A Short List of Scientific Books by E. & F. N. Spon. February 1914
-
-Author: Various
-
-Release Date: November 29, 2018 [EBook #58377]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK LIST OF SCIENTIFIC BOOKS ***
-
-
-
-
-Produced by Chris Curnow, David King, and the Online
-Distributed Proofreading Team at http://www.pgdp.net. (This
-file was produced from images generously made available
-by The Internet Archive.)
 
 
 
@@ -177,7 +149,7 @@ S. Boyce=. 13 illus., 112 pp., crown 8vo. (_New York, 1900._) 2_s._
 
 =Sugar, a Handbook for Planters and Refiners.= By the late =J. A. R.
 Newlands= and =B. E. R. Newlands=. 236 illus., 876 pp., 8vo. (_1909._)
-£1 5_s._ net.
+Â£1 5_s._ net.
 
 =Hops=, their Cultivation, Commerce and Uses. By =P. L. Simmonds=. 143
 pp., crown 8vo. (_1877._) 4_s._ 6_d._
@@ -233,7 +205,7 @@ Fullerton=. Third edition, 245 plates, 254 pp., demy 4to. (_1908._)
 =The Clerk of Works' Vade Mecum.= By =G. G. Hoskins=. Eighth edition.
 (_1914._) 1_s._ 6_d._ net.
 
-=A Handbook of Formulæ, Tables, and Memoranda for Architectural
+=A Handbook of FormulÃ¦, Tables, and Memoranda for Architectural
 Surveyors.= By =J. T. Hurst=. Fifteenth edition, new impression, 112
 illus., viii + 512 pp., royal 32mo, roan. (_1912._) 5_s._ net.
 
@@ -241,7 +213,7 @@ illus., viii + 512 pp., royal 32mo, roan. (_1912._) 5_s._ net.
 plates, 190 pp., 8vo. (_1910._) 5_s._ net.
 
 =Quantity Surveying.= By =J. Leaning=. Fifth edition, new impression,
-936 pp., 8vo. (_1912._) £1 5_s._ net.
+936 pp., 8vo. (_1912._) Â£1 5_s._ net.
 
 =Builders' Quantities.= By =H. M. Lewis=. 6 illus., 44 pp., crown 8vo.
 (S. & C. SERIES, No. 40.) (_1911._) 1_s._ 6_d._ net.
@@ -254,11 +226,11 @@ Ancient Lights. By =H. B. Molesworth=. 9 folding plates, 4to. (_1902._)
 plates and 12 pp. text, crown 4to. (_1905._) 5_s._ net.
 
 =Solid Bitumens=, their Physical and Chemical Properties. By =S. F.
-Peckham=. 23 illus., 324 pp., 8vo. (_New York, 1909._) £1 1_s._
+Peckham=. 23 illus., 324 pp., 8vo. (_New York, 1909._) Â£1 1_s._
 
 =Roman Architecture, Sculpture and Ornament.= By =G. B. Piranesi=. 200
 plates, reproduced in facsimile from the original. 2 vols., imperial
-folio, in wrappers. (_1900._) £2 2_s._ net.
+folio, in wrappers. (_1900._) Â£2 2_s._ net.
 
 =The Seven Periods of English Architecture=, defined and illustrated. By
 =E. Sharpe=. Third edition, 20 steel plates, royal 8vo. (_1888._) 12_s._
@@ -294,7 +266,7 @@ cloth (_1914_). 5_s._ net.
 (_1889._) 6_s._
 
 =Treatise on Application of Wire to Construction of Ordnance.= By =J. A.
-Longridge=. 180 pp., 8vo. (_1884._) £1 5_s._
+Longridge=. 180 pp., 8vo. (_1884._) Â£1 5_s._
 
 
 
@@ -355,7 +327,7 @@ xii + 265 pp., demy 8vo. (_1912._) 10_s._ 6_d._ net.
 
 =A Practical Treatise on Segmental and Elliptical Oblique or Skew
 Arches.= By =G. J. Bell=. Second edition, 17 plates, 125 pp., royal 8vo.
-(_1906._) £1 1_s._ net.
+(_1906._) Â£1 1_s._ net.
 
 =Economics of Construction= in relation to Framed Structures. By =R. H.
 Bow=. Third thousand, 16 plates, 88 pp., 8vo. (_1873._) 5_s._
@@ -363,7 +335,7 @@ Bow=. Third thousand, 16 plates, 88 pp., 8vo. (_1873._) 5_s._
 =Theory of Voussoir Arches.= By Prof. =W. Cain=. Third edition, 201 pp.,
 18mo, boards. (_New York, 1905._) 2_s._ net.
 
-=New Formulæ for the Loads and Deflections= of Solid Beams and Girders.
+=New FormulÃ¦ for the Loads and Deflections= of Solid Beams and Girders.
 By =W. Donaldson=. Second edition, 11 illus., viii + 56 pp., 8vo.
 (_1872._) 4_s._ 6_d._
 
@@ -446,7 +418,7 @@ net.
 Falk=. 78 illus., 176 pp., 8vo. (_New York, 1904._) 10_s._ 6_d._ net.
 
 =Concrete Construction, Methods and Cost.= By =H. P. Gillette= and =C.
-S. Hill=. 310 illus., 690 pp., 8vo. (_New York, 1908._) £1 1_s._ net.
+S. Hill=. 310 illus., 690 pp., 8vo. (_New York, 1908._) Â£1 1_s._ net.
 
 
 Works by A. A. HOUGHTON.
@@ -480,7 +452,7 @@ SERIES, No. 32.) (_New York, 1911._) 1_s._ 6_d._ net.
 =Constructing Concrete Porches.= 18 illus., 62 pp., cr. 8vo. (S. & C.
 SERIES, No. 35.) 1_s._ 6_d._ net.
 
-=Moulding Concrete Flower-Pots, Boxes, Jardinières=, etc. 8 illus., 52
+=Moulding Concrete Flower-Pots, Boxes, JardiniÃ¨res=, etc. 8 illus., 52
 pp., cr. 8vo. (S. & C. SERIES, No. 36.) (_New York, 1912._) 1_s._ 6_d._
 net.
 
@@ -489,7 +461,7 @@ crown 8vo. (S. & C. SERIES, No. 37.) (_New York, 1912._) 1_s._ 6_d._
 net.
 
 =Concrete and Reinforced Concrete.= By =H. A. Reid=. 715 illus., 884
-pp., royal 8vo. (_New York, 1907._) £1 1_s._ net.
+pp., royal 8vo. (_New York, 1907._) Â£1 1_s._ net.
 
 =Specification for Concrete Flags.= Issued by the =Institution of
 Municipal and County Engineers=. Folio, sewed. (_1911._) 2_s._ 6_d._
@@ -526,7 +498,7 @@ edition, 14 illus., 172 pp., 18mo, boards. (_New York, 1908._) 2_s._
 net.
 
 =The Civil Engineers' Cost Book.= By Major =T. E. Coleman=, R.E. xii +
-289 pp., Pocket size (6-1/2 × 3-5/8 in.), leather cloth. (_1912._) 5_s._
+289 pp., Pocket size (6-1/2 Ã— 3-5/8 in.), leather cloth. (_1912._) 5_s._
 net.
 
 =Retaining Walls in Theory and Practice.= By =T. E. Coleman=. 104
@@ -543,7 +515,7 @@ B. Coventry=. 8vo, sewed. (_1894._) 2_s._ 6_d._
 
 =Handbook of Cost Data for Contractors and Engineers.= By =H. P.
 Gillette=. 1,854 pp., crown 8vo, leather, gilt edges. (_New York,
-1911._) £1 1_s._ net.
+1911._) Â£1 1_s._ net.
 
 =High Masonry Dams.= By =E. S. Gould=. 2nd. edit. With illus., 88 pp.,
 18mo, boards. (_New York, 1905._) 2_s._ net.
@@ -561,7 +533,7 @@ edition in preparation._
 Mackesy=. 1 plate, 24 pp., royal 32mo. (_1882._) 3_s._
 
 =Aid Book to Engineering Enterprise.= By =E. Matheson=. Third edition,
-illustrated, 916 pp., medium 8vo, buckram. (_1898._) £1 4_s._
+illustrated, 916 pp., medium 8vo, buckram. (_1898._) Â£1 4_s._
 
 =A Treatise on Surveying.= By =R. E. Middleton= and =O. Chadwick=. Third
 edition, royal 8vo. (_1911._)
@@ -569,7 +541,7 @@ edition, royal 8vo. (_1911._)
          Part I. 11 plates, 162 illus., 285 pp. 10_s._ 6_d._
            " II. 152 illus. and 2 plates, 340 pp. 10_s._ 6_d._
 
-=A Pocket Book of Useful Formulæ and Memoranda=, for Civil and
+=A Pocket Book of Useful FormulÃ¦ and Memoranda=, for Civil and
 Mechanical Engineers. By Sir =G. L. Molesworth= and =H. B. Molesworth=.
 With an Electrical Supplement by =W. H. Molesworth=. Twenty-seventh
 edition, 800 illus., viii + 936 pp., oblong 32mo, leather. (_1913._)
@@ -601,7 +573,7 @@ and 28 illus., 210 pp., 18mo, boards. (_New York, 1898._) 2_s._ net.
 
 =Spons' Dictionary of Engineering=, Civil, Mechanical, Military and
 Naval. 10,000 illus., 4,300 pp., super royal 8vo. (_1874_, Supplement
-issued in _1881_.) Complete, in 4 vols. £3 3_s._ net.
+issued in _1881_.) Complete, in 4 vols. Â£3 3_s._ net.
 
 =Surveying and Levelling Instruments.= By =W. F. Stanley=. _Fourth
 edition in preparation._
@@ -987,10 +959,10 @@ pp., oblong 8vo. (_New York, 1892._) 3_s._ 6_d._ net.
 demy 8vo. (FINSBURY TECHNICAL MANUAL.)
 
 Vol. I. CONTINUOUS-CURRENT MACHINERY. With 4 coloured and 30 folding
-plates, 573 illus., 984 pp. (_1904._) £1 10_s._ net.
+plates, 573 illus., 984 pp. (_1904._) Â£1 10_s._ net.
 
 Vol. II. ALTERNATING CURRENT MACHINERY. 15 coloured and 24 folding
-plates, 546 illus., 900 pp. (_1905._) £1 10_s._ net.
+plates, 546 illus., 900 pp. (_1905._) Â£1 10_s._ net.
 
 =Design of Dynamos= (Continuous Currents). By Prof. =S. P. Thompson=. 4
 coloured and 8 folding plates, 243 pp., demy 8vo. (_1903._) 12_s._ net.
@@ -1173,21 +1145,21 @@ Bellasis=. 2 plates, 26 pp., 8vo, sewed. (_1912._) 1_s._ net.
 160 illus., xii + 311 pp., 8vo. (_1911._) 12_s._ net.
 
 =Pumps=: Historically, Theoretically and Practically Considered. By =P.
-R. Björling=. Second edition, 156 illus., 234 pp., crown 8vo. (_1895._)
+R. BjÃ¶rling=. Second edition, 156 illus., 234 pp., crown 8vo. (_1895._)
 7_s._ 6_d._
 
-=Pump Details.= By =P. R. Björling=. 278 illus., 211 pp., crown 8vo.
+=Pump Details.= By =P. R. BjÃ¶rling=. 278 illus., 211 pp., crown 8vo.
 (_1892._) 7_s._ 6_d._
 
 =Pumps and Pump Motors=: A Manual for the use of Hydraulic Engineers. By
-=P. R. Björling=. Two vols., 261 plates, 369 pp., royal 4to. (_1895._)
-£1 10_s._ net.
+=P. R. BjÃ¶rling=. Two vols., 261 plates, 369 pp., royal 4to. (_1895._)
+Â£1 10_s._ net.
 
-=Practical Handbook on Pump Construction.= By =P. R. Björling=. Second
+=Practical Handbook on Pump Construction.= By =P. R. BjÃ¶rling=. Second
 ed., new imp., 9 plates, viii + 86 pp., cr. 8vo. (_1912._) 3_s._ 6_d._
 net.
 
-=Water or Hydraulic Motors.= By =P. R. Björling=. 206 illus., 287 pp.,
+=Water or Hydraulic Motors.= By =P. R. BjÃ¶rling=. 206 illus., 287 pp.,
 crown 8vo. (_1903._) 9_s._
 
 =Hydraulic Machinery=, with an Introduction to Hydraulics. By =R. G.
@@ -1221,7 +1193,7 @@ Second edition, 12 plates, 4to. (_1871._) 5_s._
 =Principles of Construction and Efficiency of Water-wheels.= By =W.
 Donaldson=. 13 illus., 94 pp., 8vo. (_1876._) 5_s._
 
-=Practical Hydrostatics and Hydrostatic Formulæ.= By =E. S. Gould=. 27
+=Practical Hydrostatics and Hydrostatic FormulÃ¦.= By =E. S. Gould=. 27
 illus., 114 pp., 18mo, boards. (_New York, 1903._) 2_s._ net.
 
 =Hydraulic and Other Tables= for purposes of Sewerage and Water Supply.
@@ -1232,7 +1204,7 @@ net.
 Power Supplies. Indexed at side for ready reference. By =A. E. Silk=. 63
 pp., crown 8vo. (_1899._) 5_s._
 
-=Simple Hydraulic Formulæ.= By =T. W. Stone=. 9 plates, 98 pp., crown
+=Simple Hydraulic FormulÃ¦.= By =T. W. Stone=. 9 plates, 98 pp., crown
 8vo. (_1881._) 4_s._
 
 =A B C of Hydrodynamics.= By Lieut.-Col. =R. de Villamil=. 48 illus., xi
@@ -1298,7 +1270,7 @@ Mastin=. 114 pp., fcap. 16mo, limp leather, gilt top. (_1911._) 2_s._
 
 =Sugar, a Handbook for Planters and Refiners.= By the late =J. A. R.
 Newlands= and =B. E. R. Newlands=. 236 illus., 876 pp., 8vo. (_1909._)
-£1 5_s._ net.
+Â£1 5_s._ net.
 
 =Principles of Leather Manufacture.= By Prof. =H. R. Procter=. _Second
 edition in preparation._
@@ -1319,11 +1291,11 @@ Sixth thousand, 15 illus., 146 pp., square 16mo. (_New York, 1909._)
 edition, 20 plates, 178 pp., 8vo. (_1880._) 6_s._ net.
 
 =Factory Glazes for Ceramic Engineers.= By =H. Rum-Bellow=. Folio.
-Series A, Leadless Sanitary Glazes. (_1908._) £2 2_s._ net.
+Series A, Leadless Sanitary Glazes. (_1908._) Â£2 2_s._ net.
 
-=Spons' Encyclopædia of the Industrial Arts=, Manufactures and
+=Spons' EncyclopÃ¦dia of the Industrial Arts=, Manufactures and
 Commercial Products. 2 vols. 1,500 illus., 2,100 pp., super royal 8vo.
-(_1882._) £2 2_s._ net.
+(_1882._) Â£2 2_s._ net.
 
 =Refrigeration and Ice-making= and Refrigerating Machinery. By =W. H.
 Wakeman=. 4th ed., 15 illus., 43 pp., 8vo, sewed. (_New York, 1909._)
@@ -1396,7 +1368,7 @@ viii + 475 pp., cr. 8vo, leather, gilt edges. (_1913._) 15_s._ net.
 Buckley=. 22 diagrams, 56 pp., crown 8vo. (_1911._) 2_s._ net.
 
 =The Irrigation Works of India.= By =R. B. Buckley=. Second edition,
-with coloured maps and plans. 336 pp., 4to, cloth. (_1905._) £2 2_s._
+with coloured maps and plans. 336 pp., 4to, cloth. (_1905._) Â£2 2_s._
 net.
 
 =Irrigated India.= By Hon. =Alfred Deakin=. With Map, 322 pp., 8vo.
@@ -1407,17 +1379,17 @@ Second ed., 16 plates, 59 illus., xxiv + 442 pp., 8vo. (_1913._) 21_s._
 net.
 
 =The Irrigation of Mesopotamia.= By Sir =W. Willcocks=. 2 vols., 46
-plates, 136 pp. (Text super royal 8vo, plates folio.) (_1911._) £1 net.
+plates, 136 pp. (Text super royal 8vo, plates folio.) (_1911._) Â£1 net.
 
 =Egyptian Irrigation.= By Sir =W. Willcocks= and =J. I. Craig=. In 2
 Vols. Third edition, 81 plates, 183 illus., 900 pp., sup. roy. 8vo.
 (_1913._) 42_s._ net.
 
-=The Nile Reservoir Dam at Assuân=, and After. By Sir =W. Willcocks=.
+=The Nile Reservoir Dam at AssuÃ¢n=, and After. By Sir =W. Willcocks=.
 Second edition, 13 plates, 35 pp., super royal 8vo. (_1903._). 3_s._
 net.
 
-=The Assuân Reservoir and Lake Moeris.= By Sir =W. Willcocks=. With text
+=The AssuÃ¢n Reservoir and Lake Moeris.= By Sir =W. Willcocks=. With text
 in English, French and Arabic. 5 plates, 116 pp., super royal 8vo.
 (_1904._) 3_s._ net.
 
@@ -1532,7 +1504,7 @@ plates, 66 pp., folio. (_New York, 1901_). 10_s._ 6_d._ net.
 edition, 27 plates, 536 pp., 8vo. (_1902._) 12_s._ 6_d._ net.
 
 =Solid Bitumens.= By =S. F. Peckham=. 23 illus., 324 pp., 8vo. (_New
-York, 1909._) £1 1_s._ net.
+York, 1909._) Â£1 1_s._ net.
 
 =Lubricants, Oils and Greases.= By =I. I. Redwood=. 3 plates, ix + 54
 pp., 8vo. (_1898._) 6_s._ 6_d._ net.
@@ -1716,7 +1688,7 @@ edition, 35 illus., 230 pp., crown 8vo. (_1906._) 4_s._ 6_d._ net.
 Sixth edition, 3 plates and 73 diagrams, 285 pp., 8vo. (_1902._) 9_s._
 
 =Practical Treatise on the Steam Engine.= By =A. Rigg=. Second edition,
-103 plates, 378 pp., demy 4to. (_1894._) £1 5_s._
+103 plates, 378 pp., demy 4to. (_1894._) Â£1 5_s._
 
 =Power and its Transmission.= A Practical Handbook for the Factory and
 Works Manager. By =T. A. Smith=. 76 pp., fcap. 8vo. (_1910._) 2_s._ net.
@@ -1733,7 +1705,7 @@ Tyrrell=. 652 illus., 490 pp., 8vo. (_New York, 1911._) 17_s._ net.
 
 =Slide and Piston Valve Geared Steam Engines.= By =W. H. Uhland=. 47
 plates and 314 illus., 155 pp. Two vols., folio, half morocco. (_1882._)
-£1 16_s._
+Â£1 16_s._
 
 =How to run Engines and Boilers.= By =E. P. Watson=. Fifth edition, 31
 illus., 160 pp., 8vo. (_New York, 1904._) 3_s._ 6_d._
@@ -1795,7 +1767,7 @@ net.
 148 pp., 8vo. (_1888._) 12_s._ 6_d._
 
 =Atlas of Designs concerning Blast Furnace Practice.= By =M. A.
-Pavloff=. 127 plates, 14 in. by 10-1/2 in. oblong, sewed. (_1902._) £1
+Pavloff=. 127 plates, 14 in. by 10-1/2 in. oblong, sewed. (_1902._) Â£1
 1_s._ net.
 
 =Album of Drawings relating to the Manufacture of Open Hearth Steel.= By
@@ -1809,10 +1781,10 @@ Translated by =R. G. Corbet=. 94 illus., 180 pp., crown 8vo. (_1910._)
 4_s._ 6_d._ net.
 
 =Modern Foundry Practice.= By =J. Sharp=. Second edition, new
-impression, 272 illus., 759 pp., 8vo. (_1911._) £1 1_s._ net.
+impression, 272 illus., 759 pp., 8vo. (_1911._) Â£1 1_s._ net.
 
 =Roll Turning for Sections in Steel and Iron.= By =A. Spencer=. Second
-edition, 78 plates, 4to. (_1894._) £1 10_s._
+edition, 78 plates, 4to. (_1894._) Â£1 10_s._
 
 
 
@@ -1856,11 +1828,11 @@ net.
 pp., 8vo. (_1878._) 5_s._
 
 =Winding Plants for Great Depths.= By =H. C. Behr=. In two parts. 8vo,
-sewed. (_1902._) £2 2_s._ net.
+sewed. (_1902._) Â£2 2_s._ net.
 
 =Practical Treatise on Hydraulic Mining in California.= By =A. J.
 Bowie=, Junr. Tenth edition, 73 illus., 313 pp., royal 8vo. (_New York,
-1905._) £1 1_s._ net.
+1905._) Â£1 1_s._ net.
 
 =Tables for the Determination of Common Rocks.= By =O. Bowles=. 64 pp.,
 18mo, boards. (VAN NOSTRAND SERIES, No. 125.) (_New York, 1910._) 2_s._
@@ -1905,10 +1877,10 @@ edition, 12 illus., 46 pp., crown 8vo. (_1897._) 4_s._
 (_1895._) 10_s._ 6_d._ net.
 
 =Gold Milling=: Principles and Practice. By =C. G. W. Lock=. 200 illus.,
-850 pp., demy 8vo. (_1901._) £1 1_s._ net.
+850 pp., demy 8vo. (_1901._) Â£1 1_s._ net.
 
 =Mining and Ore-Dressing Machinery.= By =C. G. W. Lock=. 639 illus., 466
-pp., super royal 4to. (_1890._) £1 5_s._
+pp., super royal 4to. (_1890._) Â£1 5_s._
 
 =Miners' Pocket Book.= By =C. G. W. Lock=. Fifth edition, 233 illus.,
 624 pp., fcap. 8vo, leather, gilt edges. (_1908._) 10_s._ 6_d._ net.
@@ -1927,10 +1899,10 @@ Mining Investor. By =J. A. Miller=. 34 illus., 234 pp., crown 8vo.
 Murgue=. 7 illus., 81 pp., 8vo. (_1883._) 5_s._
 
 =Examples of Coal Mining Plant.= By =J. Povey-Harper=. Second edition,
-40 plates, 26 in. by 20 in. (_1895._) £4 4_s._ net.
+40 plates, 26 in. by 20 in. (_1895._) Â£4 4_s._ net.
 
 =Examples of Coal Mining Plant, Second Series.= By =J. Povey-Harper=. 10
-plates, 26 in. by 20 in. (_1902._) £1 12_s._ 6_d._ net.
+plates, 26 in. by 20 in. (_1902._) Â£1 12_s._ 6_d._ net.
 
 
 
@@ -1973,7 +1945,7 @@ pp., crown 8vo. (_New York, 1899._) 5_s._ 6_d._ net.
 
 =Organization of Gold Mining Business=, with Specimens of the
 Departmental Report Books and the Account Books. By =Nicol Brown=.
-Second edition, 220 pp., fcap. folio. (_1903._) £1 5_s._ net.
+Second edition, 220 pp., fcap. folio. (_1903._) Â£1 5_s._ net.
 
 =Cost Keeping and Management Engineering.= A Treatise for those engaged
 in Engineering Construction. By =H. P. Gillette= and =R. T. Dana=. 184
@@ -1987,7 +1959,7 @@ their Valuation. By =E. Matheson=. Fourth edition, 230 pp., 8vo.
 (_1910._) 10_s._ 6_d._ net.
 
 =Aid Book to Engineering Enterprise.= By =E. Matheson=. Third edition,
-916 pp., 8vo, buckram. (_1898._) £1 4_s._
+916 pp., 8vo, buckram. (_1898._) Â£1 4_s._
 
 =Office Management.= A handbook for Architects and Civil Engineers. By
 =W. Kaye Parry=. _New Edition in preparation._
@@ -2016,7 +1988,7 @@ illus., 82 pp., demy 8vo. (_1898._) 5_s._
 
 =Experimental Science=: Elementary, Practical and Experimental Physics.
 By =G. M. Hopkins=. Twenty-third edition, 920 illus., 1,100 pp., 8vo.
-(_New York, 1902._) £1 1_s._ net.
+(_New York, 1902._) Â£1 1_s._ net.
 
 =Reform in Chemical and Physical Calculations.= By =C. J. T. Hanssen=.
 Demy 4to. (_1897._) 6_s._ 6_d._ net.
@@ -2050,7 +2022,7 @@ pp., pocket size (6-1/2 in. by 3-3/4 in.), leather cloth. (_1912._)
 
 =Handbook of Cost Data for Contractors and Engineers.= By =H. P.
 Gillette=. 1,854 pp., crown 8vo, leather, gilt edges. (_New York,
-1911._) £1 1_s._ net.
+1911._) Â£1 1_s._ net.
 
 =Spons' Architects' and Builders' Pocket Price-Book.= Edited by =Clyde
 Young=. Revised by =Stanford M. Brooks=. Forty-first ed., viii + 308
@@ -2092,7 +2064,7 @@ Fowler=, M.E., and =W. W. Wood=. Fifth edition, 92 illus., 266 pp.,
 =Permanent-way Diagrams.= By =F. H. Frere=. Mounted on linen in cloth
 covers. (_1908._) 3_s._ net.
 
-=Formulæ for Railway Crossings and Switches.= By =J. Glover=. 9 illus.,
+=FormulÃ¦ for Railway Crossings and Switches.= By =J. Glover=. 9 illus.,
 28 pp., royal 32mo. (_1896._) 2_s._ 6_d._
 
 =Setting out of Tube Railways.= By =G. M. Halden=. 9 plates, 46 illus.,
@@ -2184,7 +2156,7 @@ sheet in case. 2_s._ 6_d._ net.
 
 =A Complete and Practical Treatise on Plumbing and Sanitation.= By =G.
 B. Davis= and =F. Dye=. 2 vols., 637 illus. and 21 folding plates, 830
-pp., 4to, cloth. (_1899._) £1 10_s._ net.
+pp., 4to, cloth. (_1899._) Â£1 10_s._ net.
 
 =Standard Practical Plumbing.= By =P. J. Davies=.
 
@@ -2233,10 +2205,10 @@ Fourth edition, 256 pp., 8vo. (_1904._) 12_s._ 6_d._ net.
 
 
 =New Business Code.= 320 pp., narrow 8vo. (Size 4-3/4 in. by 7-3/4 in.
-and 1/2 in. thick, and weight 10 oz.) (_New York, 1909._) £1 1_s._ net.
+and 1/2 in. thick, and weight 10 oz.) (_New York, 1909._) Â£1 1_s._ net.
 
 =Miners' and Smelters' Code= (formerly issued as the =Master Telegraph
-Code=). 448 pp., 8vo, limp leather, weight 14 oz. (_New York, 1899._) £2
+Code=). 448 pp., 8vo, limp leather, weight 14 oz. (_New York, 1899._) Â£2
 10_s._ net.
 
 =Billionaire Phrase Code=, containing over two million sentences coded
@@ -2264,7 +2236,7 @@ illus., 319 pp., 8vo. (_1905._) 8_s._ 6_d._ net.
 =Charts for Low Pressure Steam Heating.= By =J. H. Kinealy=. Small
 folio. (_New York._) 4_s._ 6_d._
 
-=Formulæ and Tables for Heating.= By =J. H. Kinealy=. 18 illus., 53 pp.,
+=FormulÃ¦ and Tables for Heating.= By =J. H. Kinealy=. 18 illus., 53 pp.,
 8vo. (_New York, 1899._) 3_s._ 6_d._
 
 =Centrifugal Fans.= By =J. H. Kinealy=. 33 illus., 206 pp., fcap. 8vo,
@@ -2336,7 +2308,7 @@ Small Calibre.= By Prof. =G. Lange=. 1 plate, 16 pp., 8vo, sewed.
 
 =The Principles of Waterworks Engineering.= By =J. H. T. Tudsbery= and
 =A. W. Brightmore=. Third edition, 13 folding plates, 130 illus., 447
-pp., demy 8vo. (_1905._) £1 1_s._ net.
+pp., demy 8vo. (_1905._) Â£1 1_s._ net.
 
 
 
@@ -2401,7 +2373,7 @@ Smiths' Work. By =T. Moore=. New impression, 401 illus., 248 pp., crown
 8vo. (_1912._) 5_s._ net.
 
 =Modern Machine Shop Construction=, equipment and management. By =O. E.
-Perrigo=. 208 illus., 343 pp., crown 4to. (_New York, 1906._) £1 1_s._
+Perrigo=. 208 illus., 343 pp., crown 4to. (_New York, 1906._) Â£1 1_s._
 net.
 
 =Turner's Handbook on Screw-cutting=, Coning, etc. By =W. Price=. New
@@ -2414,7 +2386,7 @@ plates, 23 illus., 48 pp., 8vo. (_1906._) 4_s._ 6_d._ net.
 edition, 7 illus., 66 pp., crown 8vo. (_New York, 1910._) 3_s._ net.
 
 =Forging, Stamping, and General Smithing.= By =B. Saunders=. 728 illus.,
-ix + 428 pp., demy 8vo. (_1912._) £1 1_s._ net.
+ix + 428 pp., demy 8vo. (_1912._) Â£1 1_s._ net.
 
 =Pocket Book on Boilermaking, Shipbuilding=, and the Steel and Iron
 Trades in General. By =M. J. Sexton=. Sixth edition, new impression, 85
@@ -2515,15 +2487,15 @@ degree of the Quadrant, and for distances from 1 to 100, etc. 18mo,
 boards. 2_s._ net.
 
 =The Wide Range Dividend and Interest Calculator=, showing at a glance
-the percentage on any sum from £1 to £10,000, at any Interest from 1% to
+the percentage on any sum from Â£1 to Â£10,000, at any Interest from 1% to
 12-1/2%, proceeding by 1/4%; also Table of Income Tax deductions on any
-sum from £1 to £10,000, at 9_d._, 1_s._, and 1_s._ 2_d._ in the £. By
+sum from Â£1 to Â£10,000, at 9_d._, 1_s._, and 1_s._ 2_d._ in the Â£. By
 =Alfred Stevens=. 100 pp., super royal 8vo. 5_s._ net. Quarter Morocco,
 cloth sides. 7_s._ 6_d._ net.
 
 =The Wide Range Income Tax Calculator=, showing at a glance the tax on
 any sum from One Shilling to Ten Thousand Pounds at the Rates of 9_d._,
-1_s._, and 1_s._ 2_d._ in the £. By =Alfred Stevens=. 8 pp., printed on
+1_s._, and 1_s._ 2_d._ in the Â£. By =Alfred Stevens=. 8 pp., printed on
 stiff card, royal 8vo. 1_s._ net.
 
 =Fifty-four Hours' Wages Calculator.= By =H. N. Whitelaw=. Second
@@ -2638,365 +2610,4 @@ Typographical errors were silently corrected.
 End of the Project Gutenberg EBook of A Short List of Scientific Books by E.
 & F. N. Spon. February 1914, by Various
 
-*** END OF THIS PROJECT GUTENBERG EBOOK LIST OF SCIENTIFIC BOOKS ***
-
-***** This file should be named 58377-8.txt or 58377-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/8/3/7/58377/
-
-Produced by Chris Curnow, David King, and the Online
-Distributed Proofreading Team at http://www.pgdp.net. (This
-file was produced from images generously made available
-by The Internet Archive.)
-
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org Section 3. Information about the Project Gutenberg
-Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 58377 ***
